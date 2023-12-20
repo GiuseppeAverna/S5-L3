@@ -1,0 +1,56 @@
+#card {
+    width: 300px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 460px;
+}
+
+article img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px 100px 0px 0px;
+    display: flex;
+    
+}
+
+
+
+
+#div1 {
+    background-color: #decc61;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 612px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 0px 0px 100px 100px;
+}
+
+button {
+    background-color: #daa81b;
+    border-radius: 20px
+
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+
+#div2 {
+    color: brown;
+}
+
+
+#textarticle {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: -184px
+}

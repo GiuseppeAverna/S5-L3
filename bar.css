@@ -1,0 +1,27 @@
+ul {
+    background-color: bisque;
+    list-style-type: none;
+    height: 100px;
+    width: 80%;
+    margin-left: auto;
+margin-right: auto;
+border-radius: 120px;
+display: flex;
+justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    background-color: rgb(211, 186, 118);
+    color: brown;
+    border-radius: 50%;
+    height: 45px;
+    width: 90px;
+
+}
+
+
+li img {
+    
+    height: 100%;
+}
